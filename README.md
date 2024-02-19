@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything meaningful and fun!
 - 📫 How to reach me: miguelaab-dev@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was a BA Economics graduate before shifting completely my carreer! If you want to talk anything related to economics, feel free to ask too :D
+- ⚡ Fun fact: I was a BA Economics graduate before shifting completely my carreer! If you want to talk anything related to economics, feel free to ask!
 
 <!---
 miguelaab-dev/miguelaab-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
